@@ -1,0 +1,18 @@
+body {
+  font-family: cursive;
+}
+
+h2 {
+  color: white;
+  font-style: italic;
+  display: inline;
+}
+
+ul {
+  list-style-type: square;
+  color: maroon;
+}
+
+p {
+  color: yellow;
+}
